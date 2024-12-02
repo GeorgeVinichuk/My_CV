@@ -2,4 +2,5 @@
 
 В данном блоке будет находится мое актуальное резюме:
 
-[Виничук Георгий QA.pdf](https://github.com/user-attachments/files/16506991/QA.pdf)
+
+[Виничук Георгий QA.pdf](https://github.com/user-attachments/files/17978901/QA.pdf)
